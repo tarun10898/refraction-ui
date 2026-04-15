@@ -1,5 +1,12 @@
 # @refraction-ui/astro-app-shell
 
+## 0.2.4
+
+### Patch Changes
+
+- Updated dependencies [83cf3d8]
+  - @refraction-ui/app-shell@0.1.5
+
 ## 0.2.3
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @refraction-ui/react-app-shell
 
+## 0.1.5
+
+### Patch Changes
+
+- Updated dependencies [83cf3d8]
+  - @refraction-ui/app-shell@0.1.5
+
 ## 0.1.4
 
 ### Patch Changes
